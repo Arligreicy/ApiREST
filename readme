@@ -1,1 +1,15 @@
+## Olá! Tudo bem ?
+Esse projeto faz parte da disciplina Arquitetura Orientada a Serviço. Realizado no 6º semestre da Faculdade de Tecnologia de Jahu administrado pela Profº Vânia Somaio.
+
+1. Desenvolver usando MVC e Orientação a Objeto:
+
+a. Desenvolver uma interface que solicite os dados da empresa, quando digitar o cnpj deverá acessar o serviço no item b; b. Acessar o serviço https://www.receitaws.com.br/v1/cnpj/[CNPJ];
+
+
+c. Obter os dados do acesso no item b e preencher uma interface para cadastrar a empresa no Banco de Dados;
+
+d. Efetuar o cadastro.
+
 api utilizada = https://brasilapi.com.br/api/cnpj/v1/{cnpj}
+
+PHP
